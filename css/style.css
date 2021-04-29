@@ -1,0 +1,29 @@
+h1 {
+    font-size: 70px
+    text-align center;
+}
+
+body {
+    background-color: rgba(201, 192, 192, 0.753);
+
+}
+p {
+    color: rgb(207, 27, 168);
+    background-color: rgb(117, 110, 110);
+
+}
+nav ul li {
+    display: inline;
+    margin: 10px;
+    color: rgb(243, 19, 194);
+}
+
+  img { 
+    width: 200px;
+    display: inline;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom:50px;
+    display: block;
+margin: 0px auto;
+  }
